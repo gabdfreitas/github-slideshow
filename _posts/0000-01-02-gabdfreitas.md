@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: "Welcome to our second slide!"
+title: "a!"
 ---
-Your text
-Use the left arrow to go back!
+tutorial
+Use the arrow to go back!
